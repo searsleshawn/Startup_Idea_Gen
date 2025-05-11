@@ -28,6 +28,9 @@ These libraries were used in a custom conda environement that uses python 3.9
 
 ![Startup Idea Generator Demo](GIF/startup_idea_generator.gif)
 
+## 🌐Live Demo
+[Try the app here](https://startupideagen.streamlit.app/)
+
 ## 📁 Project Structure
 ```kotlin
 ├── app.py
